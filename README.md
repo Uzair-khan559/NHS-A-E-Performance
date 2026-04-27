@@ -84,10 +84,6 @@ The dashboard was built in **Power BI** and includes:
 - a Top 10 Worst Performing Providers chart for the selected month
 - a Top 10 Best Performing Providers chart for the selected month
 
-### Dashboard Link
-[View the Power BI dashboard here](PASTE_LINK_HERE)
-
-
 ## Future Improvements
 
 Possible future enhancements include:
@@ -103,7 +99,6 @@ nhs-ae-dashboard/
 │
 ├── notebooks/
 ├── data/
-│   ├── raw/
 │   └── cleaned/
 ├── power-bi
 ├── README.md
